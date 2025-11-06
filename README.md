@@ -1,4 +1,4 @@
-# vix-stock-index-analysis
+# vix-eurostoxx-impact
 
 ### Configuration de l'environnement Python
 
